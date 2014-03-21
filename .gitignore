@@ -1,0 +1,3 @@
+# ignoring temp files
+*~
+.idea
